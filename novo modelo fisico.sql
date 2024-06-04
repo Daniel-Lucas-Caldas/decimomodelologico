@@ -48,6 +48,7 @@ CREATE TABLE Medicacao (
 );
 
 CREATE TABLE Formacao_Tecnica (
+	idFormacao INT PRIMARY KEY,
     especialidade VARCHAR(45)
 );
 
